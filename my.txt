@@ -12,3 +12,6 @@ I am making some more changes
 
 There are a lot to do more.
 please add decimal numbers.
+
+Only character data is missing also
+Boolean.
